@@ -12,4 +12,8 @@ class ConfigHandler:
     def set_email(email):
         pass
 
-        
+    def set_root(root):
+        pass
+
+    def del_config(name, last_name):
+        pass
