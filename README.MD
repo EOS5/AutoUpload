@@ -1,0 +1,1 @@
+= This is a personnal project aimed to sort, arrange, and send emails
