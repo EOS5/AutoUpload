@@ -4,9 +4,9 @@ class FileHandler:
         self.path = path
         self.file_name = file_name
 
-    def mv_file(path, file_name, destination):
+    def mv_file(self, path, file_name, destination):
         pass
 
-    def del_file(path, file_name):
+    def del_file(self, path, file_name):
         pass
         
